@@ -18,4 +18,4 @@ For now organised in chronological order.
 ### March 2020
 
 - [Same string different lengths. Wha?](https://play.golang.org/p/ujUnmx-LsWu)
-- [Omit that time. Its empty!](https://play.golang.org/p/X9g27jPpFej)
+- [Omit that time. It is empty!](https://play.golang.org/p/X9g27jPpFej)
