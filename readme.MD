@@ -21,4 +21,5 @@ For now organised in chronological order.
 - [Omit that time. It is empty!](https://play.golang.org/p/X9g27jPpFej)
 - [Never rely on Sorcery. It's not guaranteed to work forever..](https://play.golang.org/p/81LRVLTXk5L)
 - [Print my list in a Goroutine. Where is it?](https://play.golang.org/p/9TXTz-rgGBX)
-- [Crazy aliasing. This is so NSFW!](https://play.golang.org/p/ZF-_djzT2P3)
+- [Filthy aliasing. Avert your eyes. So NSFW!](https://play.golang.org/p/ZF-_djzT2P3)
+- [Imported just for its side effects, 'init?](https://play.golang.org/p/01Jl4WAoI40)
