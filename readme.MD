@@ -20,3 +20,4 @@ For now organised in chronological order.
 - [Same string different lengths. Wha?](https://play.golang.org/p/ujUnmx-LsWu)
 - [Omit that time. It is empty!](https://play.golang.org/p/X9g27jPpFej)
 - [Never rely on Sorcery. It's not guaranteed to work forever..](https://play.golang.org/p/81LRVLTXk5L)
+- [Print my list in a Goroutine. Where is it?](https://play.golang.org/p/9TXTz-rgGBX)
