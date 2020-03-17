@@ -23,3 +23,4 @@ For now organised in chronological order.
 - [Print my list in a Goroutine. Where is it?](https://play.golang.org/p/9TXTz-rgGBX)
 - [Filthy aliasing. Avert your eyes. So NSFW!](https://play.golang.org/p/ZF-_djzT2P3)
 - [Imported just for its side effects, 'init?](https://play.golang.org/p/01Jl4WAoI40)
+- [It doesn't add up?](https://play.golang.org/p/S30PkUi_O7T)
