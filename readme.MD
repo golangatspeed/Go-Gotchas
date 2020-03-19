@@ -1,6 +1,6 @@
 # Go-Gotchas
 
-## Some gotchas, from Golang, to shorten your learning curve
+## Some gotchas, tricks & snippets to show Golang principles. Shorten your learning curve!
 
 A repository for snippets I've posted on [Twitter](https://twitter.com/GolangAtSpeed) and sometimes [Linkedin](https://www.linkedin.com/company/GolangAtSpeed/). All are in the Go Playground for you to experiment with.
 
