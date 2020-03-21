@@ -25,3 +25,4 @@ For now organised in chronological order.
 - [Imported just for its side effects, 'init?](https://play.golang.org/p/01Jl4WAoI40)
 - [It doesn't add up?](https://play.golang.org/p/S30PkUi_O7T)
 - [Thirsty? Empty inter'face :baby_bottle:](https://play.golang.org/p/z7V1Qv-mf2b)
+- [Can interation be an irritation?](https://play.golang.org/p/wgPgpzgHZAW)
