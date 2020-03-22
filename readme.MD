@@ -26,3 +26,4 @@ For now organised in chronological order.
 - [It doesn't add up?](https://play.golang.org/p/S30PkUi_O7T)
 - [Thirsty? Empty inter'face :baby_bottle:](https://play.golang.org/p/z7V1Qv-mf2b)
 - [Can iteration be an irritation?](https://play.golang.org/p/wgPgpzgHZAW)
+- [The winner isn't always the one you expect!](https://play.golang.org/p/XWTKv7Y04wt)
