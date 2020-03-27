@@ -28,3 +28,5 @@ For now organised in chronological order.
 - [Can iteration be an irritation?](https://play.golang.org/p/wgPgpzgHZAW)
 - [The winner isn't always the one you expect!](https://play.golang.org/p/XWTKv7Y04wt)
 - [This one is for all you reference types](https://play.golang.org/p/AzsVMTGca3t)
+- [Why 'that' time? You know THAT one?](https://play.golang.org/p/uTZHA5_-otO)
+- [Pass a value, pass a reference? Copycat!](https://play.golang.org/p/UjXFKuoikv3)
