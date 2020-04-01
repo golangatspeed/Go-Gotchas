@@ -30,3 +30,7 @@ For now organised in chronological order.
 - [This one is for all you reference types](https://play.golang.org/p/AzsVMTGca3t)
 - [Why 'that' time? You know THAT one?](https://play.golang.org/p/uTZHA5_-otO)
 - [Pass a value, pass a reference? Copycat!](https://play.golang.org/p/UjXFKuoikv3)
+
+### April 2020
+
+- [I am determined to extend and inherit!](https://play.golang.org/p/Eg06RbUM-Ym)
