@@ -34,4 +34,4 @@ For now organised in chronological order.
 ### April 2020
 
 - [I am determined to extend and inherit!](https://play.golang.org/p/Eg06RbUM-Ym)
-- [Nobody likes a fussy flamin' marshaller!](https://play.golang.org/p/DVqLfawKQsD)
+- [What a fussy flamin' marshal!](https://play.golang.org/p/DVqLfawKQsD)
