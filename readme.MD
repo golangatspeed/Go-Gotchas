@@ -35,3 +35,4 @@ For now organised in chronological order.
 
 - [I am determined to extend and inherit!](https://play.golang.org/p/Eg06RbUM-Ym)
 - [What a fussy flamin' marshal!](https://play.golang.org/p/DVqLfawKQsD)
+- [What problems do interfaces solve?](https://play.golang.org/p/BVdaxNA4tIg)
