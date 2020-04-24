@@ -38,3 +38,4 @@ For now organised in chronological order.
 - [What problems do interfaces solve?](https://play.golang.org/p/BVdaxNA4tIg)
 - [Embedding an interface will save you lines of code](https://play.golang.org/p/vVDAmeUF1gX)
 - [Go is not so opinionated on some things..](https://play.golang.org/p/K2zJ_0XuCgD)
+- [Cheeky use of memory by identical array](https://play.golang.org/p/ZyL1tftwhxW)
