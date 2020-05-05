@@ -44,3 +44,4 @@ For now organised in chronological order.
 ### May 2020
 
 - [Slice & Array, same length same capacity. Same treatment?](https://play.golang.org/p/U838ZjZZYE7)
+- [Nobody will complain, but this won't work](https://play.golang.org/p/FXiCLKf-i_G)
