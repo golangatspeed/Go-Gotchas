@@ -17,31 +17,31 @@ For now organised in chronological order.
 
 ### March 2020
 
-- [Same string different lengths. Wha?](https://play.golang.org/p/ujUnmx-LsWu)
-- [Omit that time. It is empty!](https://play.golang.org/p/X9g27jPpFej)
-- [Never rely on Sorcery. It's not guaranteed to work forever..](https://play.golang.org/p/81LRVLTXk5L)
-- [Print my list in a Goroutine. Where is it?](https://play.golang.org/p/9TXTz-rgGBX)
-- [Filthy aliasing. Avert your eyes. So NSFW!](https://play.golang.org/p/ZF-_djzT2P3)
-- [Imported just for its side effects, 'init?](https://play.golang.org/p/01Jl4WAoI40)
-- [It doesn't add up?](https://play.golang.org/p/S30PkUi_O7T)
-- [Thirsty? Empty inter'face :baby_bottle:](https://play.golang.org/p/z7V1Qv-mf2b)
-- [Can iteration be an irritation?](https://play.golang.org/p/wgPgpzgHZAW)
-- [The winner isn't always the one you expect!](https://play.golang.org/p/XWTKv7Y04wt)
-- [This one is for all you reference types](https://play.golang.org/p/AzsVMTGca3t)
-- [Why 'that' time? You know THAT one?](https://play.golang.org/p/uTZHA5_-otO)
-- [Pass a value, pass a reference? Copycat!](https://play.golang.org/p/UjXFKuoikv3)
+- [Same string different lengths. Wha?](https://play.golang.org/p/ujUnmx-LsWu) \#strings
+- [Omit that time. It is empty!](https://play.golang.org/p/X9g27jPpFej) \#time
+- [Never rely on Sorcery. It's not guaranteed to work forever..](https://play.golang.org/p/81LRVLTXk5L) \#builtin
+- [Print my list in a Goroutine. Where is it?](https://play.golang.org/p/9TXTz-rgGBX) \#goroutines
+- [Filthy aliasing. Avert your eyes. So NSFW!](https://play.golang.org/p/ZF-_djzT2P3) \#imports
+- [Imported just for its side effects, 'init?](https://play.golang.org/p/01Jl4WAoI40) \#imports
+- [It doesn't add up?](https://play.golang.org/p/S30PkUi_O7T) \#valuespointers
+- [Thirsty? Empty inter'face :baby_bottle:](https://play.golang.org/p/z7V1Qv-mf2b) \#interfaces
+- [Can iteration be an irritation?](https://play.golang.org/p/wgPgpzgHZAW) \#values
+- [The winner isn't always the one you expect!](https://play.golang.org/p/XWTKv7Y04wt) \#races
+- [This one is for all you reference types](https://play.golang.org/p/AzsVMTGca3t) \#types
+- [Why 'that' time? You know THAT one?](https://play.golang.org/p/uTZHA5_-otO) \#time
+- [Pass a value, pass a reference? Copycat!](https://play.golang.org/p/UjXFKuoikv3) \#copies
 
 ### April 2020
 
-- [I am determined to extend and inherit!](https://play.golang.org/p/Eg06RbUM-Ym)
-- [What a fussy flamin' marshal!](https://play.golang.org/p/DVqLfawKQsD)
-- [What problems do interfaces solve?](https://play.golang.org/p/BVdaxNA4tIg)
-- [Embedding an interface will save you lines of code](https://play.golang.org/p/vVDAmeUF1gX)
-- [Go is not so opinionated on some things..](https://play.golang.org/p/K2zJ_0XuCgD)
-- [Cheeky overuse of memory by identical array](https://play.golang.org/p/ZyL1tftwhxW)
+- [I am determined to extend and inherit!](https://play.golang.org/p/Eg06RbUM-Ym) \#oop
+- [What a fussy flamin' marshal!](https://play.golang.org/p/DVqLfawKQsD) \#json \#marshaler
+- [What problems do interfaces solve?](https://play.golang.org/p/BVdaxNA4tIg) \#interfaces
+- [Embedding an interface will save you lines of code](https://play.golang.org/p/vVDAmeUF1gX) \#interfaces
+- [Go is not so opinionated on some things..](https://play.golang.org/p/K2zJ_0XuCgD) \#variables
+- [Cheeky overuse of memory by identical array](https://play.golang.org/p/ZyL1tftwhxW) \#variables \#padding
 
 
 ### May 2020
 
-- [Slice & Array, same length same capacity. Same treatment?](https://play.golang.org/p/U838ZjZZYE7)
-- [Nobody will complain, but this won't work](https://play.golang.org/p/FXiCLKf-i_G)
+- [Slice & Array, same length same capacity. Same treatment?](https://play.golang.org/p/U838ZjZZYE7) \#referencetypes
+- [Nobody will complain, but this won't work](https://play.golang.org/p/FXiCLKf-i_G) \#returns
