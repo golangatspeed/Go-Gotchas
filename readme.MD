@@ -45,3 +45,4 @@ For now organised in chronological order.
 
 - [Slice & Array, same length same capacity. Same treatment?](https://play.golang.org/p/U838ZjZZYE7) \#referencetypes
 - [Nobody will complain, but this won't work](https://play.golang.org/p/FXiCLKf-i_G) \#returns
+- [Add new stuff to an imported package](https://play.golang.org/p/-CDNDNV41fP)
