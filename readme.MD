@@ -1,5 +1,7 @@
 # Go-Gotchas
 
+Hey there! Do you know I send a weekly Golang newsletter/tutorial? You can [subscribe here](https://goatspeed.substack.com/)
+
 ## Some gotchas, tricks & snippets to show Golang principles. Shorten your learning curve!
 
 A repository for snippets I've posted on [Twitter](https://twitter.com/GolangAtSpeed) and sometimes [Linkedin](https://www.linkedin.com/company/GolangAtSpeed/). All are in the Go Playground for you to experiment with.
@@ -13,7 +15,7 @@ Check out the [GolangatSpeed website](https://golangatspeed.com) or, get in touc
 
 ## There are no answers here, only questions ;)
 
-For now organised in chronological order.
+For now organised in chronological order (sorry about the hiatus between June and August - blame Covid!)
 
 ### March 2020
 
@@ -40,7 +42,6 @@ For now organised in chronological order.
 - [Go is not so opinionated on some things..](https://play.golang.org/p/K2zJ_0XuCgD) \#variables
 - [Cheeky overuse of memory by identical array](https://play.golang.org/p/ZyL1tftwhxW) \#variables \#padding
 
-
 ### May 2020
 
 - [Slice & Array, same length same capacity. Same treatment?](https://play.golang.org/p/U838ZjZZYE7) \#referencetypes
@@ -50,6 +51,8 @@ For now organised in chronological order.
 
 ### September 2020
 - [Empty Slice vs Nil Slice. It'll getcha!](https://play.golang.org/p/77iksaEukUX) \#compositetypes \#referencetypes
+- [There's something not right with my method](https://play.golang.org/p/33Qr6eZUEV8) \#compositetypes \#receivers \#methods
 
 ### October 2020
 - [Naff Map, sorry I mean Nil Map](https://play.golang.org/p/LmrbYWnNrpa) \#map \#compositetypes \#referencetypes
+- [That's a lot of capacity, do we need it?](https://play.golang.org/p/HKO1Zq9_8Ep) \#make \#capacity \#compositetypes
