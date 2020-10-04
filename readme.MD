@@ -56,3 +56,4 @@ For now organised in chronological order (sorry about the hiatus between June an
 ### October 2020
 - [Naff Map, sorry I mean Nil Map](https://play.golang.org/p/LmrbYWnNrpa) \#map \#compositetypes \#referencetypes
 - [That's a lot of capacity, do we need it?](https://play.golang.org/p/HKO1Zq9_8Ep) \#make \#capacity \#compositetypes
+- [When is an int not an int?](https://play.golang.org/p/QSGDPNe5Zj9) \#customtypes
