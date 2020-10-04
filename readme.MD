@@ -47,3 +47,9 @@ For now organised in chronological order.
 - [Nobody will complain, but this won't work](https://play.golang.org/p/FXiCLKf-i_G) \#returns
 - [Add new stuff to an imported package](https://play.golang.org/p/-CDNDNV41fP)
 - [This doesn't add up...](https://play.golang.org/p/_uoAHQeoh9h)
+
+### September 2020
+- [Empty Slice vs Nil Slice. It'll getcha!](https://play.golang.org/p/77iksaEukUX) \#compositetypes \#referencetypes
+
+### October 2020
+- [Naff Map, sorry I mean Nil Map](https://play.golang.org/p/LmrbYWnNrpa) \#map \#compositetypes \#referencetypes
